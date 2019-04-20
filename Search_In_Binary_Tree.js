@@ -1,5 +1,7 @@
 // Simple Javascript solution, faster than 99.91% of JavaScript online submissions 
 
+// https://leetcode.com/problems/search-in-a-binary-search-tree/discuss/278049/Simple-Javascript-JS-solution-faster-than-99.60-of-JavaScript-online-submissions
+
 /**
  * Definition for a binary tree node.
  * function TreeNode(val) {
